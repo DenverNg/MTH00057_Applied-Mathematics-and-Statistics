@@ -18,7 +18,9 @@ if init_centroids == 'random':
 
 ### Project 02: 10đ
 ` 	E1(-0.5):Lưu tên ảnh sai quy định (Tên ảnh lưu sai quy đình (_.) B(+0.5):Có zoom in zoom out đúng` 
+
 **Có thể lỗi ở phần đặt tên `zoom0.5x`**
+
 **Note:** Phần in kết quả dưới dạng bảng phải làm giống template của thầy. Nếu không giống thì -0.5 (đừng hỏi vì sao mình không làm mà không bị trừ tại mình cũng không biết)
 
 ### Project 03: 10đ
